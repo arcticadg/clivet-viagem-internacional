@@ -1,5 +1,5 @@
 // Configuração — preencher antes de publicar
-const WHATSAPP_NUMBER = "5531900000000"; // DDI + DDD + número, só dígitos
+const WHATSAPP_NUMBER = "5531986481032"; // DDI + DDD + número, só dígitos
 const LEAD_WEBHOOK_URL = ""; // ex.: webhook do n8n; vazio = não envia o lead
 
 const dialog = document.getElementById("lead-dialog");
