@@ -6,3 +6,6 @@
 translado/IMG*.jpeg
 translado/translado3.png
 dr_felipe_quintao.jpeg
+
+# configurações locais do Claude Code
+.claude/settings.local.json
