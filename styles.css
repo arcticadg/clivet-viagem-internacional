@@ -123,3 +123,4 @@ footer .wrap{display:flex;justify-content:space-between;gap:40px;align-items:cen
 @media(max-width:900px){.transfer-grid{grid-template-columns:1fr;gap:42px}.transfer-photos{padding-bottom:48px}}
 @media(max-width:560px){.transfer-photos{gap:10px;padding-bottom:32px}.transfer-photos img:nth-child(even){transform:translateY(32px)}}
 .photo--hero{object-position:55% 35%}
+.footer-credit{color:var(--mint);text-decoration:underline;text-decoration-color:transparent;text-underline-offset:3px;transition:text-decoration-color .2s}.footer-credit:hover,.footer-credit:focus-visible{text-decoration-color:currentColor}
